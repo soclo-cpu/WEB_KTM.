@@ -1,0 +1,20 @@
+{
+    box-sizing: border-box;
+}
+body {
+    font-family: Time New Roman, sans-serif;
+    background: pink; 
+}
+.container {
+    display: flex;
+}
+.left-column {
+    flex: 30%;
+}
+.right-column {
+    flex: 70%;
+}
+.card {
+    background-color: whitesmoke;
+    padding: 20px;
+}
